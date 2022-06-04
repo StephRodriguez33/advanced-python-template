@@ -1,6 +1,6 @@
-title: Python Project
+title: Exemple avancé avec du Python
 plan:
-- title: Welcome
+- title: Présentation
   statement: markdowns/welcome.md
 projects:
   python:
